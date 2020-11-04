@@ -1,4 +1,4 @@
-package com.kenjoel.green;
+package com.kenjoel.green.models;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,6 +16,8 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.kenjoel.green.R;
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 

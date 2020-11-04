@@ -1,8 +1,10 @@
-package com.kenjoel.green;
+package com.kenjoel.green.models;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.kenjoel.green.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -26,7 +26,7 @@
             android:value="true" />
 
         <activity
-            android:name=".FoodListActivity"
+            android:name=".models.FoodListActivity"
             android:label="@string/title_activity_food_list">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,7 +35,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SignUpActivity"
+            android:name=".models.SignUpActivity"
             android:label="@string/title_activity_sign_up">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -52,7 +52,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".models.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
